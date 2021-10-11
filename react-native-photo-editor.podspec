@@ -18,4 +18,5 @@ Pod::Spec.new do |s|
   
   s.dependency "React-Core"
   s.dependency "Brightroom"
+  s.dependency "ZLImageEditor"
 end
